@@ -2,6 +2,9 @@
 Seccast
 
 $ git clone
+
 $ cd [app directory]
+
 $ npm i
+
 $ npm start
